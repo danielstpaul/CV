@@ -9,10 +9,10 @@ Code Examples
 -------------
 |Project Name | Description | Technologies |
 |-------------|-------------|--------------|
-|[Portfolio Website] (https://github.com/danielstpaul/edstpaul_website)|First project outside of Makers, built a website for a freelance cinematographer. Paired throughout.|AngularJS, HTML, CSS, JQuery|
-|[SkiBuddy] (https://github.com/danielstpaul/SkiBuddy), [SkiBuddyAPI] (https://github.com/danielstpaul/skibuddy-backend)|A ski resort recommendation site built in two weeks as a final project at Makers Academy. AngularJS frontend and Ruby on Rails backend(API).|AngularJS, Ruby on Rails, various APIs, HTML, HAML, CSS, Heroku|
+|[Portfolio Website] (https://github.com/danielstpaul/edstpaul_website)|First project outside of MA, built a website for a freelance cinematographer. Paired throughout.|AngularJS, HTML, CSS, JQuery|
+|[SkiBuddy] (https://github.com/danielstpaul/SkiBuddy), [SkiBuddyAPI] (https://github.com/danielstpaul/skibuddy-backend)|A ski resort recommendation site built in two weeks as a final project at MA. AngularJS frontend and Ruby on Rails backend(API).|AngularJS, Ruby on Rails, various APIs, HTML, HAML, CSS, Heroku|
 |[To-Do](https://github.com/danielstpaul/todo_challenge)|Mobile app using Meteor and AngularJs.|Meteor, AngularJS|
-|[InstaDan](https://github.com/danielstpaul/instagram-challenge)| An Instagram clone that was built as one of our weekend challenges at Markers Academy.|Ruby on Rails, Active Record, Postgresql, HAML, JQuery, Heroku|
+|[InstaDan](https://github.com/danielstpaul/instagram-challenge)| An Instagram clone that was built as one of our weekend challenges at MA.|Ruby on Rails, Active Record, Postgresql, HAML, JQuery, Heroku|
 |[Congo](https://github.com/danielstpaul/example_node_express_website)|Product of MA's 'Lab Week' where we had a week to explore anything we wanted. I decided to explore Node Express and Mongo by building a basic site that users could sign up to.|NodeJS, Node Express, MongoDB, Jade, CSS|
 
 Professional Skills
@@ -26,13 +26,13 @@ Professional Skills
 |Other|Heroku, GitHub Version Control, Stand Ups |Yeoman, Agile Sprints, Hosting, ASP.NET |
 
 #### Data Visualisation
-Developed a liking to data visualisation during my time as a sports performance analyst. Developed my skills with small scale data projects(blogs can be read [here](http://www.visualperformanceanalysis.com/sports-blogs/race-distribution-elite-male-400m-hurdlers-part-1/) and started working on larger data when working with Sport Wales where I used Excel and [Tableau](http://www.tableau.com/).
+Developed a liking to data visualisation during my time as a sports performance analyst. Developed my skills with small scale data projects (blogs can be read [here](http://www.visualperformanceanalysis.com/sports-blogs/race-distribution-elite-male-400m-hurdlers-part-1/)) and started working on larger data when working with Sport Wales where I used Excel and [Tableau](http://www.tableau.com/).
 Introduction to open-source APIs has got me interested in working with similar types of data on the web. The opportunity to further explore this would be ideal.
 
 #### Ruby & Javascript
 During my time at Makers Academy I have become more and more comfortable with Ruby and in particular Rails. I'm really proud of the [RailsAPI] (https://github.com/danielstpaul/skibuddy-backend) we made for our final project. Extrapolating the data that was required for our site from the JSON files the queries were returning really tested our problem solving skills at times!
 
-I have been enjoying exploring Javascript and Javascript frameworks whilst at Makers Academy and after. A few of my Javascript projects whilst I was at makers can be found in my public repos on [Github](https://github.com/danielstpaul/). I am particularly proud of [Congo](https://github.com/danielstpaul/example_node_express_website), where me and my pair were able to use a new language(JS) and framework(Node Express) to build a basic website, within a week, after 6 weeks of coding.
+I have been enjoying exploring Javascript and Javascript frameworks whilst at Makers Academy and after. A few of my Javascript projects whilst I was at makers can be found in my public repos on [Github](https://github.com/danielstpaul/). I am particularly proud of [Congo](https://github.com/danielstpaul/example_node_express_website), where my pair and I were able to use a new language(JS) and framework(Node Express) to build a basic website, within a week, after 6 weeks of coding.
 
 Education
 ---------
