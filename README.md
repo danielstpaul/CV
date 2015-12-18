@@ -43,7 +43,7 @@ Highly selective 12 week intensive coding bootcamp, September - December 2015
 - Full stack web development
 - Ruby, Rails, Javascript, AngularJS, RSpec, Capybara, Factory Girl, Jasmine, Karma, Protractor
 - Problem Solving
-- Learning Techniques, How to Google, How to get Hired, How to
+- Learning Techniques
 
 #### University of Wales, Cardiff
 MSc Performance Analysis: 2013 - present
