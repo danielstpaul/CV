@@ -26,7 +26,7 @@ Professional Skills
 |Other|Heroku, GitHub Version Control, Stand Ups |Yeoman, Agile Sprints, Hosting, ASP.NET |
 
 #### Data Visualisation
-Developed a liking to data visualisation during my time as a sports performance analyst. Developed my skills with small scale data projects (blogs can be read [here](http://www.visualperformanceanalysis.com/sports-blogs/race-distribution-elite-male-400m-hurdlers-part-1/)) and started working on larger data when working with Sport Wales where I used Excel and [Tableau](http://www.tableau.com/).
+Developed a liking to data visualisation during my time as a sports performance analyst. Developed my skills with small scale data projects (blogs can be read through [LinkedIn](http://uk.linkedin.com/in/danielstpaul/)) and started working on larger data when working with Sport Wales where I used Excel and [Tableau](http://www.tableau.com/).
 Introduction to open-source APIs has got me interested in working with similar types of data on the web. The opportunity to further explore this would be ideal.
 
 #### Ruby & Javascript
@@ -61,7 +61,7 @@ Programming, Sports, Film
 Contact Me
 -------------
 - Number: 07866856308
-- Email: [danielstpaul@hotmail.com](danielstpaul@hotmail.com)
-- Github: [danielstpaul](https://github.com/danielstpaul)
+- Email: danielstpaul@hotmail.com
+- Github: https://github.com/danielstpaul
 - LinkedIn: http://uk.linkedin.com/in/danielstpaul/
 - Blog: http://danielstpaul.github.io
