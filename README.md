@@ -9,7 +9,8 @@ Code Examples
 -------------
 |Project Name | Description | Technologies |
 |-------------|-------------|--------------|
-|[Portfolio Website] (https://github.com/danielstpaul/edstpaul_website)|First project outside of MA, built a website for a freelance cinematographer. Paired throughout.|AngularJS, HTML, CSS, JQuery|
+|[Portfolio Website] (www.edwardstpaul.com),
+[Code] (https://github.com/danielstpaul/edstpaul_website)|First project outside of MA, built a website for a freelance cinematographer. Paired throughout.|AngularJS, HTML, CSS, JQuery|
 |[SkiBuddy] (https://github.com/danielstpaul/SkiBuddy), [SkiBuddyAPI] (https://github.com/danielstpaul/skibuddy-backend)|A ski resort recommendation site built in two weeks as a final project at MA. AngularJS frontend and Ruby on Rails backend(API).|AngularJS, Ruby on Rails, various APIs, HTML, HAML, CSS, Heroku|
 |[To-Do](https://github.com/danielstpaul/todo_challenge)|Mobile app using Meteor and AngularJs.|Meteor, AngularJS|
 |[InstaDan](https://github.com/danielstpaul/instagram-challenge)| An Instagram clone that was built as one of our weekend challenges at MA.|Ruby on Rails, Active Record, Postgresql, HAML, JQuery, Heroku|
