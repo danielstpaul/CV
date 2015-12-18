@@ -34,6 +34,15 @@ During my time at Makers Academy I have become more and more comfortable with Ru
 
 I have been enjoying exploring Javascript and Javascript frameworks whilst at Makers Academy and after. A few of my Javascript projects whilst I was at makers can be found in my public repos on [Github](https://github.com/danielstpaul/). I am particularly proud of [Congo](https://github.com/danielstpaul/example_node_express_website), where my pair and I were able to use a new language(JS) and framework(Node Express) to build a basic website, within a week, after 6 weeks of coding.
 
+Work Experience
+---------------------------------
+#### Performance Analyst at Welsh Institute of Sport, Cardiff
+- Performance Analysis support for podium potential athletes, and their coaches in Swimming and Athletics.
+- Consultation work for various athletes and coaching teams supported by Sport Wales.
+- Exploration and management of performance analysis equipment and software.
+- Working within a multi-diciplinary sports science support team with varying skills and needs.
+- Competition support
+
 Education
 ---------
 #### Makers Academy, London
