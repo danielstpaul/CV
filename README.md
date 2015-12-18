@@ -9,10 +9,10 @@ Code Examples
 -------------
 |Project Name | Description | Technologies |
 |-------------|-------------|--------------|
-|[Portfolio Website] (www.edwardstpaul.com), [Code] (https://github.com/danielstpaul/edstpaul_website)|First project outside of MA, built a website for a freelance cinematographer. Paired throughout.|AngularJS, HTML, CSS, JQuery|
-|[SkiBuddy] (https://github.com/danielstpaul/SkiBuddy), [SkiBuddyAPI] (https://github.com/danielstpaul/skibuddy-backend)|A ski resort recommendation site built in two weeks as a final project at MA. AngularJS frontend and Ruby on Rails backend(API).|AngularJS, Ruby on Rails, various APIs, HTML, HAML, CSS, Heroku|
-|[To-Do](https://github.com/danielstpaul/todo_challenge)|Mobile app using Meteor and AngularJs.|Meteor, AngularJS|
-|[InstaDan](https://github.com/danielstpaul/instagram-challenge)| An Instagram clone that was built as one of our weekend challenges at MA.|Ruby on Rails, Active Record, Postgresql, HAML, JQuery, Heroku|
+|[Portfolio Website](http://edstpaul.herokuapp.com/), [code](https://github.com/danielstpaul/edstpaul_website)|First project outside of MA, built a website for a freelance cinematographer. Paired throughout. Still in Progress.|AngularJS, HTML, CSS, JQuery|
+|[SkiBuddy](https://github.com/danielstpaul/SkiBuddy), [SkiBuddyAPI](https://github.com/danielstpaul/skibuddy-backend)|A ski resort recommendation site built in two weeks as a final project at MA. AngularJS frontend and Ruby on Rails backend(API).|AngularJS, Ruby on Rails, various APIs, HTML, HAML, CSS, Heroku|
+|[To-Do](http://danstpaultodo.meteor.com/), [code](https://github.com/danielstpaul/todo_challenge)|Mobile app using Meteor and AngularJs.|Meteor, AngularJS|
+|[InstaDan](https://instadan.herokuapp.com/), [code](https://github.com/danielstpaul/instagram-challenge)| An Instagram clone that was built as one of our weekend challenges at MA.|Ruby on Rails, Active Record, Postgresql, HAML, JQuery, Heroku|
 |[Congo](https://github.com/danielstpaul/example_node_express_website)|Product of MA's 'Lab Week' where we had a week to explore anything we wanted. I decided to explore Node Express and Mongo by building a basic site that users could sign up to.|NodeJS, Node Express, MongoDB, Jade, CSS|
 
 Professional Skills
