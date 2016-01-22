@@ -1,7 +1,7 @@
 Daniel St Paul
 ================
 
-Most recently a [Makers Academy, London] (http://makersacademy.com/), graduate looking for a full-time position as a junior developer. Took interest in software development whilst working within the sports industry due to its growing importance on how professional teams were operating. Having taken an interest in software development, Makers Academy taught me not only to write beautiful, clean and test-driven software, but to develop confidence in my ability to learn quickly and adapt to new concepts. Ideally I would like to work in a supportive environment with a focus on innovation and quality, where I could continue to learn quickly and return value.  
+Most recently a [Makers Academy, London] (http://makersacademy.com/), graduate **looking for a full-time position as a junior developer**. Took interest in software development whilst working within the sports industry due to its growing importance on how professional teams were operating. Having taken an interest in software development, Makers Academy taught me not only to write beautiful, clean and test-driven software, but to develop confidence in my ability to learn quickly and adapt to new concepts. Ideally I would like to work in a supportive environment with a focus on innovation and quality, where I could continue to learn quickly and return value.  
 
 <!-- You can read more from me on my [blog](http://danielstpaul.github.io/), and don't forget to checkout my [website](https://github.com/danielstpaul/). -->
 
