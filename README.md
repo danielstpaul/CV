@@ -69,7 +69,6 @@ Programming, Sports, Film
 
 Contact Me
 -------------
-- Number: 07866856308
 - Email: danielstpaul@hotmail.com
 - Github: https://github.com/danielstpaul
 - LinkedIn: http://uk.linkedin.com/in/danielstpaul/
