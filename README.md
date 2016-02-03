@@ -72,4 +72,3 @@ Contact Me
 - Email: danielstpaul@hotmail.com
 - Github: https://github.com/danielstpaul
 - LinkedIn: http://uk.linkedin.com/in/danielstpaul/
-- Blog: http://danielstpaul.github.io
