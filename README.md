@@ -1,7 +1,13 @@
 Daniel St Paul
 ================
 
-Most recently a [Makers Academy, London] (http://makersacademy.com/), graduate **looking for a full-time position as a junior developer**. Took interest in software development whilst working within the sports industry due to its growing importance on how professional teams were operating. Having taken an interest in software development, Makers Academy taught me not only to write beautiful, clean and test-driven software, but to develop confidence in my ability to learn quickly and adapt to new concepts. Ideally I would like to work in a supportive environment with a focus on innovation and quality, where I could continue to learn quickly and return value.  
+Most recently a [Makers Academy, London] (http://makersacademy.com/), graduate **currently thugging it out as a freelancer**. Took interest in software development whilst working within the sports industry due to it's growing importance on how professional ngbs/teams were operating. Having taken an interest in software development, Makers Academy taught me not only to write beautiful, clean and test-driven software, but to develop confidence in my ability to learn quickly and adapt to new concepts. Ideally I would like to work in a supportive environment with a focus on innovation and quality, where I could continue to learn quickly and return value.  
+
+**Current Project: [Sport Wales Data Hub] (https://sport-wales-results-app.herokuapp.com/)**
+
+**Employer: [Sport Wales](http://sport.wales/)**
+
+Contract-End: 03/17
 
 <!-- You can read more from me on my [blog](http://danielstpaul.github.io/), and don't forget to checkout my [website](https://github.com/danielstpaul/). -->
 
