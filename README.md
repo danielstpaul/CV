@@ -48,7 +48,7 @@ Work Experience
 - Exploration and management of performance analysis equipment and software.
 - Working within a multi-diciplinary sports science support team with varying skills and needs.
 - Competition support.
-- Contributing and knowlege sharing to wider performance analysis workforce within UK.
+- Contributing and knowledge sharing to wider performance analysis workforce within UK.
 
 Education
 ---------
