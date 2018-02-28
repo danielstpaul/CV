@@ -3,8 +3,7 @@ Daniel St Paul
 
 Most recently founder of Sports Data Solutions Ltd, a company that specialises in catapulting sporting organisations into the 21st, Dan is a driven and ambitious individual looking to broaden the horizons for both himself and his company. Dan took interest in software development having experianced the impact such skills can make, having adopted some of these skills/processes himself whilst working as a performance analyst within the high performance system in Wales. Ideally Dan would like to work on ambitious projects within a supportive environment, with a focus on innovation and quality, where he could continue to develop his niche.  
 
-**Last Project: [Sport Wales Data Hub](https://swdatahub.co.uk/)**
-Contract-End: 01/18
+**Latest Project: [Sport Wales Data Hub](https://swdatahub.co.uk/)**(End: 01/18)
 
 Professional Skills
 ---------------------------------
