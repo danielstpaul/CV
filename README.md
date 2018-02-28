@@ -39,6 +39,7 @@ Work Experience
 - Remotely lead planning, management & development of online athlete management system for Sport Wales within 1.5 years.
 - Liaised with high performance directors, coaches & support staff of 8 different priority sports to establish their specific workflow within the athlete management system.
 - Lead project with scaleability in mind and the vision for the system to grow with the organisation. 
+- Work closely and have a good rapport with Gracenote (sports data company) and Dartfish (video solutions company).
 
 #### Performance Analyst at Welsh Institute of Sport, Cardiff (2 Years)
 - Performance Analysis support for podium potential athletes, and their coaches in Swimming and Athletics.
