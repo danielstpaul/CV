@@ -27,7 +27,7 @@ Professional Skills
 #### High Peformance Sport & Software Development
 There is a lot to be gained from merging these two, seemingly uncompatable, knowledge bases. From agile workflows like scrum and kanban, to purpose built web applications or APIs, there is no area of software development that would fail to positively impact current high performance sport workflows. There are also benifits to be gained within the local development community. As where software development jobs are non-existant within the high performance sport scene, it should be a priority of the national sporting bodies to make software development jobs within high performance sport bountiful and sought after. Sport and software development are my two major interests in life, and it is my goal to help explore and push the boundries for development in high performance sport, in order to inspire the workforce of the next generation.
 
-Work Experience
+Professional Experience
 ---------------------------------
 #### Director @ Sports Data Solutions Ltd.
 - Founder, Director, Software Developer.
