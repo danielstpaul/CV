@@ -29,20 +29,20 @@ There is a lot to be gained from merging these two, seemingly uncompatable, know
 
 Work Experience
 ---------------------------------
-#### Founder & Software Developer @ Sports Data Solutions Ltd.
+#### Director @ Sports Data Solutions Ltd.
 - Founder, Director, Software Developer.
 - Performs development and maintenance of tailored web solutions within high performance sport.
 - Provides strategy, training and support for tailored data processes and video workflows to be embedded within the sporting organisation.
 - Contributes to knowledge sharing within high performance sports system. Most recently a presentation to the UK Sport intelligence team.
 - Profitable without any investment.
 
-#### Technical Lead & Software Developer @ Sport Wales (14 Months)
+#### Sport Wales Data Hub, Project Manager & Software Developer (14 Months)
 - Remotely lead planning, management & development of online athlete management system for Sport Wales within 1.5 years.
 - Liaised with high performance directors, coaches & support staff of 8 different priority sports to establish their specific workflow within the athlete management system.
 - Lead project with scaleability in mind and the vision for the system to grow with the organisation. 
 - Work closely and have a good rapport with Gracenote (sports data company) and Dartfish (video solutions company).
 
-#### Performance Analyst @ Welsh Institute of Sport, Cardiff (2 Years)
+#### Performance Analyst @ Welsh Institute of Sport, Cardiff (2013-2015)
 - Performance Analysis support for podium potential athletes, and their coaches in Swimming and Athletics.
 - Consultation work for various athletes and coaching teams supported by Sport Wales.
 - Exploration and management of performance analysis equipment and software.
