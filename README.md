@@ -33,7 +33,7 @@ Work Experience
 - Director.
 - Performs development and maintenance of tailored web solutions within high performance sport.
 - Provides strategy, training and support for tailored data processes and video workflows to be embedded within the sporting organisation.
-- Contributes to knowledge sharing within high performance system. Most recently for UK Sport.
+- Contributes to knowledge sharing within high performance system. Most recently a presentation for the UK Sport intelligence team.
 - Profitable without any investment.
 
 #### Technical Lead & Software Developer @ Sport Wales (14 Months)
