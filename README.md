@@ -1,7 +1,7 @@
 Daniel St Paul
 ================
 
-Most recently a [Makers Academy, London] (http://makersacademy.com/), graduate **currently thugging it out as a freelancer**. Took interest in software development whilst working within the sports industry due to it's growing importance on how professional ngbs/teams were operating. Having taken an interest in software development, Makers Academy taught me not only to write beautiful, clean and test-driven software, but to develop confidence in my ability to learn quickly and adapt to new concepts. Ideally I would like to work in a supportive environment with a focus on innovation and quality, where I could continue to learn quickly and return value.  
+Most recently founder of Sports Data Solutions Ltd, a company that specialises in catapulting sporting organisations into the 21st, Dan is a driven and ambitious individual looking to broaden the horizons for both himself and his company. Dan took interest in software development having experianced the impact such skills can make, having adopted some of these skills/processes himself whilst working as a performance analyst within the high performance system in Wales. Ideally Dan would like to work on ambitious projects with a supportive environment and a focus on innovation and quality, where he could continue to develop his niche.  
 
 **Last Project: [Sport Wales Data Hub] (https://swdatahub.co.uk/)**
 Contract-End: 01/18
@@ -11,20 +11,19 @@ Professional Skills
 #### Software Development
 | | Comfortable/Learning | Exploring/Touched On |
 |-------------|-------------|--------------|
-|Languages|Ruby, Javascript, JQuery, HTML, CSS |Jade, HAML |
-|Frameworks|Ruby on Rails, Node Express, AngularJS |MeteorJS, KnockoutJS |
-|Databases|Postgresql, ActiveRecord, MongoDB |FireBase |
-|Testing|Rspec, Capybara |Jasmine, Karma, Protractor, Mocha, Velocity(Meteor) |
-|Other|Heroku, GitHub Version Control, Stand Ups |Yeoman, Agile Sprints, Hosting, ASP.NET |
+|Languages|Ruby, Javascript, JQuery, HTML, CSS |TypeScript, ES6|
+|Frameworks|Ruby on Rails, AngularJS, Node |Angular 5, React, MeteorJS, KnockoutJS|
+|Databases|Postgresql, ActiveRecord, MongoDB, SQL, AWS S3 |FireBase|
+|Testing|Rspec, Capybara, Jasmine, Karma, Protractor||
+|Other|Heroku, AWS, GitHub Version Control, Kanban, Agile, Trello, Slack |Gulp, Webpack, Docker|
 
 #### High Performance Sport (Performance Analyst)
 | | Comfortable/Learning | Exploring/Touched On |
 |-------------|-------------|--------------|
-|Languages|Ruby, Javascript, JQuery, HTML, CSS |Jade, HAML |
-|Frameworks|Ruby on Rails, Node Express, AngularJS |MeteorJS, KnockoutJS |
-|Databases|Postgresql, ActiveRecord, MongoDB |FireBase |
-|Testing|Rspec, Capybara |Jasmine, Karma, Protractor, Mocha, Velocity(Meteor) |
-|Other|Heroku, GitHub Version Control, Stand Ups |Yeoman, Agile Sprints, Hosting, ASP.NET |
+|Data|APIs, JSON, CSV, Data Modeling and Projecting, Performance Reporting, Race Distributions|XML, MATLAB|
+|Video|Dartfish + TV, IP Camera Solutions, Custom Video Feedback Solutions||
+|Tech|Web Scrapping Scripts(Ruby), Postgresql, AWS, Trello, Excel, Prezi |Tableau|
+|Other|Project Management, Mentorship |Budget Management, Object Identification (Deep Learning and Machine Learning)|
 
 #### High Peformance Sport & Software Development
 
@@ -39,7 +38,7 @@ Work Experience
 - Competition support
 
 #### Freelance Software Developer @ Sport Wales
-- Remotely lead planning & development of online athlete management system for Sport Wales.
+- Remotely lead planning, management & development of online athlete management system for Sport Wales.
 - Liaised with High Performance Directors, coaches & support staff of 8 different priority sports.
 - 
 
