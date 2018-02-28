@@ -1,7 +1,7 @@
 Daniel St Paul
 ================
 
-Most recently founder of Sports Data Solutions Ltd, a company that specialises in catapulting sporting organisations into the 21st, Dan is a driven and ambitious individual looking to broaden the horizons for both himself and his company. Dan took interest in software development having experianced the impact such skills can make, having adopted some of these skills/processes himself whilst working as a performance analyst within the high performance system in Wales. Ideally Dan would like to work on ambitious projects, within a supportive environment, with a focus on innovation and quality, where he could continue to develop his niche and make a positive impact within the high performance sport system.  
+Most recently founder of Sports Data Solutions Ltd, a company that specialises in catapulting sporting organisations into the 21st, Dan is a driven and ambitious individual looking to broaden the horizons for both himself and his company. Dan took interest in software development having experianced the impact such skills can make, having adopted some of these skills/processes himself whilst working as a performance analyst within the high performance sports system in Wales. Ideally Dan would like to work on ambitious projects, within a supportive environment, with a focus on innovation and quality, where he could continue to develop his niche and make a positive impact.  
 
 **Latest Project: [Sport Wales Data Hub](https://www.swdatahub.co.uk/#/)**(End: 01/18)
 
@@ -30,7 +30,7 @@ There is a lot to be gained from merging these two, seemingly uncompatable, know
 Work Experience
 ---------------------------------
 #### Founder & Software Developer @ Sports Data Solutions Ltd.
-- Director.
+- Founder, Director, Software Developer.
 - Performs development and maintenance of tailored web solutions within high performance sport.
 - Provides strategy, training and support for tailored data processes and video workflows to be embedded within the sporting organisation.
 - Contributes to knowledge sharing within high performance sports system. Most recently a presentation to the UK Sport intelligence team.
@@ -48,17 +48,18 @@ Work Experience
 - Exploration and management of performance analysis equipment and software.
 - Working within a multi-diciplinary sports science support team with varying skills and needs.
 - Competition support.
+- Contributing and knowlege sharing to wider performance analysis workforce within UK.
 
 Education
 ---------
 #### Makers Academy, London
 Highly selective 12 week intensive coding bootcamp, September - December 2015
-- Focussed on pair programming, test driven development, coding principles and agile practices
-- Object oriented programming and software design with a focus on learning quickly and effectively
-- Full stack web development
-- Ruby, Rails, Javascript, AngularJS, RSpec, Capybara, Factory Girl, Jasmine, Karma, Protractor
-- Problem Solving
-- Learning Techniques
+- Focussed on pair programming, test driven development, coding principles and agile practices.
+- Object oriented programming and software design with a focus on learning quickly and effectively.
+- Full stack web development.
+- Ruby, Rails, Javascript, AngularJS, RSpec, Capybara, Factory Girl, Jasmine, Karma, Protractor.
+- Problem Solving.
+- Learning Techniques.
 
 #### University of Wales, Cardiff
 MSc Diploma Performance Analysis: 2013 - 2015
