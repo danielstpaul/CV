@@ -1,7 +1,10 @@
 Daniel St Paul
 ================
 
-Most recently founder of Sports Data Solutions Ltd, a company that specialises in catapulting sporting organisations into the 21st, Dan is a driven and ambitious individual looking to broaden the horizons for both himself and his company. Dan took interest in software development having experianced the impact such skills can make, having adopted some of these skills/processes himself whilst working as a performance analyst within the high performance sports system in Wales. Ideally Dan would like to work on ambitious projects, within a supportive environment, with a focus on innovation and quality, where he could continue to develop his niche and make a positive impact.  
+#### High Peformance Sport & Software Development
+There is a lot to be gained from merging these two, seemingly incompatable, knowledge bases. From agile workflows like scrum and kanban, to purpose built web applications or APIs, there is no area of software development that would fail to positively impact current high performance sport workflows. There are also benefits to be gained within the local development community. As where software development jobs are non-existant within the high performance sport scene, it should be a priority of the national sporting bodies to make software development jobs within high performance sport bountiful and sought after. Sport and software development are my two major interests in life, and it is my goal to help explore and push the boundries for development in high performance sport, in order to inspire the workforce of the next generation.
+
+Most recently founder of Sports Data Solutions Ltd, a company that specialises in catapulting sporting organisations into the 21st Century, Dan is a driven and ambitious individual looking to broaden the horizons for both himself and his company. Dan took interest in software development having experianced the impact such skills can make, having adopted some of these skills/processes himself whilst working as a performance analyst within the high performance sports system in Wales. Ideally Dan would like to work on ambitious projects, within a supportive environment, with a focus on innovation and quality, where he could continue to develop his niche and make a positive impact.  
 
 **Latest Project: [Sport Wales Data Hub](https://www.swdatahub.co.uk/#/)**(End: 01/18)
 
@@ -23,9 +26,6 @@ Professional Skills
 |Databases|Postgresql, Redis, ActiveRecord, MongoDB, SQL, AWS (S3 & Reshift) |SQL, FireBase|
 |Testing|Rspec, Capybara, Jasmine, Karma, Protractor||
 |Other|Heroku, AWS, Grunt, Yarn, GitHub(Version Control), Kanban, Agile, Trello, Slack |Gulp, Webpack, Docker, CloudFront|
-
-#### High Peformance Sport & Software Development
-There is a lot to be gained from merging these two, seemingly uncompatable, knowledge bases. From agile workflows like scrum and kanban, to purpose built web applications or APIs, there is no area of software development that would fail to positively impact current high performance sport workflows. There are also benifits to be gained within the local development community. As where software development jobs are non-existant within the high performance sport scene, it should be a priority of the national sporting bodies to make software development jobs within high performance sport bountiful and sought after. Sport and software development are my two major interests in life, and it is my goal to help explore and push the boundries for development in high performance sport, in order to inspire the workforce of the next generation.
 
 Professional Experience
 ---------------------------------
