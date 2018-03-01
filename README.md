@@ -4,7 +4,7 @@ Daniel St Paul
 #### High Peformance Sport & Software Development
 There is a lot to be gained from merging these two, seemingly incompatable, knowledge bases. From Agile workflows like Scrum and Kanban, to purpose built web applications or APIs, there is no area of software development that would fail to positively impact current high performance sport workflows. It should be a priority of the national sporting bodies to make software development jobs, within high performance sport, bountiful and sought after. It is my goal to help explore and push the boundries for development in high performance sport, to inspire and motivate the current and next generation of stakeholders.
 
-Most recently I founded Sports Data Solutions Ltd, a company that specialises in catapulting sporting organisations into the 21st Century. Ideally I would like to work on ambitious projects, with a focus on innovation and quality, where I could continue to develop my niche, and make a positive impact, whithin high performance sport.  
+Most recently I founded Sports Data Solutions Ltd, a company that specialises in catapulting sporting organisations into the 21st Century. Ideally I would like to work on ambitious projects, with a focus on innovation and quality, where I could continue to develop my niche, and make a positive impact, within high performance sport.  
 
 **Latest Project: [Sport Wales Data Hub](https://www.swdatahub.co.uk/#/)**(End: 01/18)
 
