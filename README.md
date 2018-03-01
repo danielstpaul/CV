@@ -62,7 +62,7 @@ Highly selective 12 week intensive coding bootcamp, September - December 2015
 - Learning Techniques.
 
 #### University of Wales, Cardiff
-MSc Diploma Performance Analysis: 2013 - 2015
+MSc Diploma Performance Analysis: 2013 - 2014
 
 #### University of Wales, Cardiff
 BSc 1st Class(Hons) Sports & Exercise Science: 2010 - 2013
