@@ -65,7 +65,7 @@ Highly selective 12 week intensive coding bootcamp, September - December 2015
 MSc Diploma Performance Analysis: 2013 - 2015
 
 #### University of Wales, Cardiff
-BSc(Hons) 1st Class Sports & Exercise Science: 2010 - 2013
+BSc(Hons 1st Class) Sports & Exercise Science: 2010 - 2013
 
 #### King George V School, Hong Kong
 IB Diploma: 2008-2010
