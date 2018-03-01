@@ -15,7 +15,7 @@ Professional Skills
 |-------------|-------------|--------------|
 |Data|APIs, JSON, CSV, Data Modeling and Projecting, Performance Reporting, Race Distributions|XML|
 |Video|Dartfish + TV, IP Camera Solutions, Custom Video Feedback Solutions|Object Identification (Deep Learning and Machine Learning)|
-|Tech|Web Scrapping Scripts(Ruby), Postgresql, AWS (S3 & Redshift), Trello, Excel, Prezi |Tableau, MATLAB (Deep Learning and Machine Learning)|
+|Tech|Web Scraping Scripts(Ruby), Postgresql, AWS (S3 & Redshift), Trello, Excel, Prezi |Tableau, MATLAB (Deep Learning and Machine Learning)|
 |Other|Project Management, Mentorship, Public Presenting & Knowledge Sharing|Budget Management|
 
 #### Software Development
