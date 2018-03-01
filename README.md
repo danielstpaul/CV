@@ -2,7 +2,7 @@ Daniel St Paul
 ================
 
 #### High Peformance Sport & Software Development
-There is a lot to be gained from merging these two, seemingly incompatable, knowledge bases. From Agile workflows like Scrum and Kanban, to purpose built web applications or APIs, there is no area of software development that would fail to positively impact current high performance sport workflows. It should be a priority of the national sporting bodies to make software development jobs, within high performance sport, bountiful and sought after. It is my goal to help explore and push the boundries for development in high performance sport, to inspire and motivate the current and next generation of stakeholders.
+There is a lot to be gained from merging these two, seemingly incompatable, knowledge bases. From Agile practices like Scrum and Kanban, to purpose built web applications or APIs, there is no area of software development that would fail to positively impact current high performance sport workflows. It should be a priority of the national sporting bodies to make software development jobs, within high performance sport, bountiful and sought after. It is my goal to help explore and push the boundries for development in high performance sport, to inspire and motivate the current and next generation of stakeholders.
 
 Most recently I founded Sports Data Solutions Ltd, a company that specialises in catapulting sporting organisations into the 21st Century. Ideally I would like to work on ambitious projects, with a focus on innovation and quality, where I could continue to develop my niche, and make a positive impact, within high performance sport.  
 
@@ -39,7 +39,7 @@ Professional Experience
 #### Sport Wales Data Hub, Project Manager & Software Developer (14 Months)
 - Remotely lead planning, management & development of online athlete management system for Sport Wales within 1.5 years.
 - Liaised with high performance directors, coaches & support staff of 8 different priority sports to establish their specific workflow within the athlete management system.
-- Lead project with scaleability in mind and the vision for the system to grow with the organisation. 
+- Lead project with scalability in mind and the vision for the system to grow with the organisation. 
 - Work closely and have a good rapport with Gracenote (sports data company) and Dartfish (video solutions company).
 
 #### Performance Analyst @ Welsh Institute of Sport, Cardiff (2013-2015)
