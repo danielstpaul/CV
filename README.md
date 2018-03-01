@@ -13,16 +13,16 @@ Professional Skills
 |Data|APIs, JSON, CSV, Data Modeling and Projecting, Performance Reporting, Race Distributions|XML|
 |Video|Dartfish + TV, IP Camera Solutions, Custom Video Feedback Solutions|Object Identification (Deep Learning and Machine Learning)|
 |Tech|Web Scrapping Scripts(Ruby), Postgresql, AWS (S3 & Redshift), Trello, Excel, Prezi |Tableau, MATLAB (Deep Learning and Machine Learning)|
-|Other|Project Management, Mentorship |Budget Management|
+|Other|Project Management, Mentorship, Public Presenting & Knowledge Sharing|Budget Management|
 
 #### Software Development
 | | Comfortable/Learning | Exploring/Touched On |
 |-------------|-------------|--------------|
 |Languages|Ruby, Javascript, JQuery, HTML, CSS |TypeScript, ES6|
 |Frameworks|Ruby on Rails, AngularJS, Node |Angular 5, React, MeteorJS, KnockoutJS|
-|Databases|Postgresql, ActiveRecord, MongoDB, SQL, AWS S3 |FireBase|
+|Databases|Postgresql, Redis, ActiveRecord, MongoDB, SQL, AWS (S3 & Reshift) |SQL, FireBase|
 |Testing|Rspec, Capybara, Jasmine, Karma, Protractor||
-|Other|Heroku, AWS (S3 & Redshift), Grunt, Yarn, GitHub(Version Control), Kanban, Agile, Trello, Slack |Gulp, Webpack, Docker, CloudFront|
+|Other|Heroku, AWS, Grunt, Yarn, GitHub(Version Control), Kanban, Agile, Trello, Slack |Gulp, Webpack, Docker, CloudFront|
 
 #### High Peformance Sport & Software Development
 There is a lot to be gained from merging these two, seemingly uncompatable, knowledge bases. From agile workflows like scrum and kanban, to purpose built web applications or APIs, there is no area of software development that would fail to positively impact current high performance sport workflows. There are also benifits to be gained within the local development community. As where software development jobs are non-existant within the high performance sport scene, it should be a priority of the national sporting bodies to make software development jobs within high performance sport bountiful and sought after. Sport and software development are my two major interests in life, and it is my goal to help explore and push the boundries for development in high performance sport, in order to inspire the workforce of the next generation.
