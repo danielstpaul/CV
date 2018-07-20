@@ -13,9 +13,9 @@ Professional Skills
 #### High Performance Sport (Performance Analyst)
 | | Comfortable/Learning | Exploring/Touched On |
 |-------------|-------------|--------------|
-|Data|APIs, JSON, CSV, Data Modeling and Projecting, Performance Reporting, Race Distributions|XML|
-|Video|Dartfish + TV, IP Camera Solutions, Custom Video Feedback Solutions|Object Identification (Deep Learning and Machine Learning)|
-|Tech|Web Scraping Scripts(Ruby), Postgresql, AWS (S3 & Redshift), Trello, Excel, Prezi |Tableau, MATLAB (Deep Learning and Machine Learning)|
+|Data|APIs, JSON, CSV, Data Modeling and Projecting, Performance Reporting, Race Distributions|XMLs & Video Data|
+|Video|Dartfish + TV, IP Camera Solutions, Custom Video Feedback Solutions|Automation, Machine Learning, Machine Vision (Automated Tagging, Object Identification)|
+|Tech|Web Scraping Scripts(Ruby), Postgresql, AWS (S3 & Redshift), AmChartsv3-v4, Trello, Excel, Prezi |Tableau, GraphQL|
 |Other|Project Management, Mentorship, Public Presenting & Knowledge Sharing|Budget Management|
 
 #### Software Development
@@ -25,7 +25,7 @@ Professional Skills
 |Frameworks|Ruby on Rails, AngularJS, Node |Angular 5, React, MeteorJS, KnockoutJS|
 |Databases|Postgresql, Redis, ActiveRecord, MongoDB, SQL, AWS (S3 & Reshift) |SQL, FireBase|
 |Testing|Rspec, Capybara, Jasmine, Karma, Protractor||
-|Other|Heroku, AWS, Grunt, Yarn, GitHub(Version Control), Kanban, Agile, Trello, Slack |Gulp, Webpack, Docker, CloudFront|
+|Other|Heroku, AWS, AmChartsv3-v4, D3.js, Grunt, Gulp, Yarn, GitHub(Version Control), Kanban, Agile, Trello, Slack |Webpack, Docker, CloudFront|
 
 Professional Experience
 ---------------------------------
@@ -38,7 +38,7 @@ Professional Experience
 
 #### Sport Wales Data Hub, Project Manager & Software Developer (14 Months)
 - Remotely lead planning, management & development of online athlete management system for Sport Wales within 1.5 years.
-- Liaised with high performance directors, coaches & support staff of 8 different priority sports to establish their specific workflow within the athlete management system.
+- Liaised with high performance directors, coaches & support staff of 8 different priority sports to establish their specific workflows within the athlete management system.
 - Lead project with scalability in mind and the vision for the system to grow with the organisation. 
 - Work closely and have a good rapport with Gracenote (sports data company) and Dartfish (video solutions company).
 
