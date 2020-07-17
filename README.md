@@ -1,31 +1,10 @@
 Daniel St Paul
 ================
 
-#### High Peformance Sport & Software Development
-There is a lot to be gained from merging these two, seemingly incompatable, knowledge bases. From Agile practices like Scrum and Kanban, to purpose built web applications or APIs, there is no area of software development that would fail to positively impact current high performance sport workflows. It should be a priority of the national sporting bodies to make software development jobs, within high performance sport, bountiful and sought after. It is my goal to help explore and push the boundries for development in high performance sport, to inspire and motivate the current and next generation of stakeholders.
+#### High Performance Sport & Software Development
+There is a lot to be gained from merging these two, seemingly incompatible, knowledge bases. From Agile practices and ceremonies, like Scrum and Kanban, standups, sprints and retrospectives, to purpose built web applications or APIs, there is no area of software development that would fail to positively impact current high performance sport workflows. To ensure the advancement of the sports industry and the various industries it impacts, it should be a priority of the government and national sporting bodies to make software development jobs, within sport, abundant and sought after, at the same time, ensuring good practice and educational pathways that lead to worthwhile opportunities. It is my goal to help explore and push the boundaries for software development in high performance sport, to inspire and motivate the current and next generation of stakeholders. Most recently I founded Sports Data Solutions Ltd, a company that specialises in servicing the data and software needs of elite athletes and support staff. 
 
-Most recently I founded Sports Data Solutions Ltd, a company that specialises in catapulting sporting organisations into the 21st Century. Ideally I would like to work on ambitious projects, with a focus on innovation and quality, where I could continue to develop my niche, and make a positive impact, within high performance sport.  
-
-**Latest Project: [Sport Wales Data Hub](https://www.swdatahub.co.uk/#/)**(End: 01/18)
-
-Professional Skills
----------------------------------
-#### High Performance Sport (Performance Analyst)
-| | Comfortable/Learning | Exploring/Touched On |
-|-------------|-------------|--------------|
-|Data|APIs, JSON, CSV, Data Modeling and Projecting, Performance Reporting, Race Distributions|XMLs & Video Data|
-|Video|Dartfish + TV, IP Camera Solutions, Custom Video Feedback Solutions|Automation, Machine Learning, Machine Vision (Automated Tagging, Object Identification)|
-|Tech|Web Scraping Scripts(Ruby), Postgresql, AWS (S3 & Redshift), AmChartsv3-v4, Trello, Excel, Prezi |Tableau, GraphQL|
-|Other|Project Management, Mentorship, Public Presenting & Knowledge Sharing|Budget Management|
-
-#### Software Development
-| | Comfortable/Learning | Exploring/Touched On |
-|-------------|-------------|--------------|
-|Languages|Ruby, Javascript, JQuery, HTML, CSS |TypeScript, ES6|
-|Frameworks|Ruby on Rails, AngularJS, Node |Angular 5, React, MeteorJS, KnockoutJS|
-|Databases|Postgresql, Redis, ActiveRecord, MongoDB, SQL, AWS (S3 & Reshift) |SQL, FireBase|
-|Testing|Rspec, Capybara, Jasmine, Karma, Protractor||
-|Other|Heroku, AWS, AmChartsv3-v4, D3.js, Grunt, Gulp, Yarn, GitHub(Version Control), Kanban, Agile, Trello, Slack |Webpack, Docker, CloudFront|
+Ideally I would like to work on ambitious projects, with a focus on innovation and quality, where I could continue to develop my skills, and make a positive impact within high performance sport.
 
 Professional Experience
 ---------------------------------
@@ -33,12 +12,12 @@ Professional Experience
 - Founder, Director, Software Developer.
 - Performs development and maintenance of tailored web solutions within high performance sport.
 - Provides strategy, training and support for tailored data processes and video workflows to be embedded within the sporting organisation.
-- Contributes to knowledge sharing within high performance sports system. Most recently a presentation to the UK Sport intelligence team.
-- Profitable without any investment.
+- Contributes to knowledge sharing within high performance sports system. E.g. Presentation on web app development to the UK Sport intelligence team and establishing automated web scraping workflows within the Performance Analysis team at Sport Wales.
+- Self-Starter, profitable without any investment.
 
 #### Sport Wales Data Hub, Project Manager & Software Developer (14 Months)
-- Remotely lead planning, management & development of online athlete management system for Sport Wales within 1.5 years.
-- Liaised with high performance directors, coaches & support staff of 8 different priority sports to establish their specific workflows within the athlete management system.
+- Remotely lead planning, management and development of online athlete management system for Sport Wales within 1.5 years.
+- Liaised with high performance directors, coaches and support staff of 8 different priority sports to establish their specific workflows within the athlete management system. This included Athletics, Swimming, Gymnastics (Artistic + Rhythmic), Boxing, Track Cycling, Weightlifting, Judo and Shooting.
 - Lead project with scalability in mind and the vision for the system to grow with the organisation. 
 - Work closely and have a good rapport with Gracenote (sports data company) and Dartfish (video solutions company).
 
@@ -49,6 +28,34 @@ Professional Experience
 - Working within a multi-diciplinary sports science support team with varying skills and needs.
 - Support staff at major competitions, such as Commonwealth Games Glasgow 2014.
 - Contributing and knowledge sharing to wider performance analysis workforce within UK.
+
+Projects
+---------------------------------
+#### [The Sport Wales Data Hub](https://www.swdatahub.co.uk/#/)
+- The Sport Wales Data Hub is a web app that acts to amalgamate all relevent Athlete selection data into one place.
+- **Backend**: **Ruby on Rails REST API**, PSQL, AWS S3, Redis (cache), Curb (http requests), Oj (object serialization), Rspec and Factory Girl (unit), Passenger (web server), Sidekiq (background workers), new relic and papertrail (monitoring), hosted on Heroku with Continuous Integration Cycle (auto deploys github master branch to staging app).
+- **Front-end**: **Angular.js**, AmCharts (charting), Smart Table (tables), Grunt (build tool), Karma + Jasmine (unit), Protractor (e2e).
+- **Other**: **Git** and **Github** for Version Control and CI, **Github Actions** for automating Web Scrapes.
+- **Features**: User Authentication, User Roles (and restrictions), Interactive Data Dashboards, Athlete Profiles, Competition Results, File/Resource Share Point, Dartfish.tv API Smart Links, Third Party web integrations (such as video links from competitions to JudoBase). 
+- **Users**: Athletes and coaches from 8 priority sports, Sport Wales suport staff, peformance directors and board members.
+
+![Hub]()
+
+![Dashboard]()
+
+![Profile]()
+
+#### [The Sport x Code Academy](https://sportsdatasolutions.academy/)
+- The Sport x Code Academy is a techical resource hub with the aim to help create and support a new generation of tech and data savvy talent for the sports industry. We are inspired by the idea of unlocking the potential of these learners by introducing specific data and programming techniques, skills and practices for the benefit of sporting teams/organisations and businesses from around the world.
+- **Backend**: **Firebase**, Hosting, Github Authentication and Cloud Functions.
+- **Front-end**: **Vue.js**, Webpack, ElementUI, Fontawesome.
+- **Other**: **Git and Github** for Version Control, **Vuepress** app for course content editing and compiling.
+- **Features**: User Authentication, User Roles, Course Hub (specific to user role), Core Course (e.g. programming, software developemnt and data science), Industry Courses (e.g. Dartfish & Technique Anlysis), Slack Community, Resource Links (to Trello, Slack, Github and Mentor), Course Nav (Sidebar), Code Snippets and Challenges (hosted on Github). 
+- **Users**: Handful of practitioners in high performance sport (WIS, EIS, WRU, Cardiff Met).
+
+![Hub]()
+
+![Content]()
 
 Education
 ---------
@@ -72,7 +79,7 @@ IB Diploma: 2008-2010
 
 Interests
 ---------
-Programming, Sports, Film
+Software Developemnt, Sport, Creative Content, Film and Culture
 
 Contact Me
 -------------
