@@ -39,7 +39,7 @@ Projects
 - **Features**: User Authentication, User Roles (and restrictions), Interactive Data Dashboards, Athlete Profiles, Competition Results, File/Resource Share Point, Dartfish.tv API Smart Links, Third Party web integrations (such as video links from competitions to JudoBase). 
 - **Users**: Athletes and coaches from 8 priority sports, Sport Wales suport staff, peformance directors and board members.
 
-![Profile](https://sportsdatasolutions.s3.eu-west-2.amazonaws.com/Profile.png)
+![Profile](https://sportsdatasolutions.s3.eu-west-2.amazonaws.com/Profile1.png)
 
 ![Dashboard](https://sportsdatasolutions.s3.eu-west-2.amazonaws.com/Dashboard.png)
 
