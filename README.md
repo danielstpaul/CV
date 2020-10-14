@@ -83,7 +83,6 @@ Software Developemnt, Sport, Creative Content, Film and Culture
 
 Contact Me
 -------------
-- Business Email: danstpaul@sportsdatasolutions.co.uk
-- Personal Email: danielstpaul@hotmail.com
-- Github: https://github.com/danielstpaul
+- Email: danstpaul@sportsdatasolutions.co.uk
+- Github: https://github.com/sportsdatasolutions
 - LinkedIn: http://uk.linkedin.com/in/danielstpaul/
